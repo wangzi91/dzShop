@@ -1,6 +1,6 @@
 <template>
   <div>
-    首页
+    我的信息界面
   </div>
 </template>
 
