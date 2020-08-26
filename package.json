@@ -24,6 +24,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
     "mpvue": "^2.0.0",
     "vuex": "^3.0.1"
   },
